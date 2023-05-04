@@ -1,5 +1,5 @@
 <?php
 
 echo phpinfo();
-echo 'site_url'
+echo 'Nginx Server'
 ?>
